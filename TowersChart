@@ -2,10 +2,10 @@
     "RookieSwordsman": {
         "Type": "Single",
         "Image": "rbxassetid://17132521951",
-        "Rarity": "Uncommon",
+        "Rarity": "Rare",
         "PlacePrice": 200,
         "Max": 4,
-        "Offset": 0.3,
+        "Offset": 0,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -14,35 +14,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
+                "Range": 7,
+                "Damage": 10,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 350,
+                "Range": 7,
+                "Damage": 13,
                 "Cooldown": 1
             },
             {
                 "Price": 500,
-                "Range": 12,
-                "Damage": 50,
+                "Range": 8,
+                "Damage": 15,
                 "Cooldown": 1
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
+                "Price": 1000,
+                "Range": 8,
+                "Damage": 20,
                 "Cooldown": 1
-            },
-            {
-                "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
             }
         ]
     },
     "RookieMage": {
         "Type": "Explosion",
         "Image": "rbxassetid://17132521951",
-        "Rarity": "Uncommon",
-        "PlacePrice": 500,
+        "Rarity": "Rare",
+        "PlacePrice": 300,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -52,36 +52,36 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 50,
+                "Range": 14,
+                "Damage": 5,
+                "Cooldown": 2
+            },
+            {
+                "Price": 600,
+                "Range": 14,
+                "Damage": 56,
                 "Cooldown": 2
             },
             {
                 "Price": 800,
-                "Range": 10,
-                "Damage": 60,
+                "Range": 16,
+                "Damage": 8,
                 "Cooldown": 2
             },
             {
-                "Price": 1200,
-                "Range": 12,
-                "Damage": 60,
-                "Cooldown": 2
-            },
-            {
-                "Price": 1500,
-                "Range": 14,
-                "Damage": 60,
+                "Price": 1250,
+                "Range": 17,
+                "Damage": 11,
                 "Cooldown": 1.5
             }
         ]
     },
-    "Foxy": {
+    "Knight": {
         "Type": "Melee",
-        "Image": "rbxassetid://16620218689",
-        "Rarity": "Rare",
-        "PlacePrice": 600,
-        "Offset": 0.65,
+        "Image": "rbxassetid://17132521951",
+        "Rarity": "Epic",
+        "PlacePrice": 450,
+        "Offset": 0,
         "Max": 5,
         "hitboxOffset": {
             "X": 0,
@@ -92,112 +92,74 @@
             {
                 "Price": 0,
                 "Range": 7,
-                "Damage": 60,
-                "Cooldown": 1
+                "Damage": 18,
+                "Cooldown": 1.2
             },
             {
-                "Price": 800,
+                "Price": 0,
+                "Range": 7,
+                "Damage": 22,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 7,
+                "Damage": 25,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 0,
                 "Range": 8,
-                "Damage": 80,
+                "Damage": 30,
                 "Cooldown": 1
-            },
-            {
-                "Price": 1200,
-                "Range": 9,
-                "Damage": 100,
-                "Cooldown": 1
-            },
-            {
-                "Price": 2000,
-                "Range": 10,
-                "Damage": 100,
-                "Cooldown": 0.75
             }
         ]
     },
-    "Bonnie": {
+    "Priest": {
         "Type": "Continuous",
-        "Image": "rbxassetid://16620268084",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Mythic",
-        "PlacePrice": 7500,
-        "Max": 3,
+        "PlacePrice": 4000,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
-        "Offset": 0.3,
+        "Offset": 0,
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 18,
-                "Damage": 20,
-                "Cooldown": 0.05
+                "Range": 16,
+                "Damage": 22,
+                "Cooldown": 0.1
             },
             {
                 "Price": 15000,
-                "Range": 20,
+                "Range": 16,
                 "Damage": 30,
-                "Cooldown": 0.05
+                "Cooldown": 0.1
             },
             {
                 "Price": 25000,
-                "Range": 23,
-                "Damage": 40,
-                "Cooldown": 0.05
+                "Range": 19,
+                "Damage": 38,
+                "Cooldown": 0.1
             },
             {
                 "Price": 35000,
-                "Range": 26,
-                "Damage": 50,
+                "Range": 24,
+                "Damage": 38,
                 "Cooldown": 0.05
             }
         ]
     },
-        "Withered Chica": {
-            "Type": "Single",
-            "Image": "rbxassetid://16632209265",
-            "Rarity": "Rare",
-            "PlacePrice": 800,
-            "Max": 2,
-            "hitboxOffset": {
-                "X": 0,
-                "Y": 0,
-                "Z": 0
-            },
-            "Upgrades": [
-                {
-                    "Price": 0,
-                    "Range": 10,
-                    "Damage": 250,
-                    "Cooldown": 1
-                },
-                {
-                    "Price": 1200,
-                    "Range": 12,
-                    "Damage": 375,
-                    "Cooldown": 1
-                },
-                {
-                    "Price": 1500,
-                    "Range": 15,
-                    "Damage": 500,
-                    "Cooldown": 1
-                },
-                {
-                    "Price": 2500,
-                    "Range": 15,
-                    "Damage": 625,
-                    "Cooldown": 0.9
-                }
-            ]
-        },
-        "Withered Foxy": {
+        "Weak Imp": {
             "Type": "Dual",
-            "Image": "rbxassetid://16632135968",
-            "Rarity": "Epic",
-            "PlacePrice": 1200,
-            "Max": 3,
+            "Image": "rbxassetid://17132521951",
+            "Rarity": "Rare",
+            "PlacePrice": 450,
+            "Max": 6,
             "hitboxOffset": {
                 "X": 0,
                 "Y": 0,
@@ -208,33 +170,33 @@
                 {
                     "Price": 0,
                     "Range": 15,
-                    "Damage": 250,
-                    "Cooldown": 1
+                    "Damage": 8,
+                    "Cooldown": 3
                 },
                 {
-                    "Price": 1800,
+                    "Price": 350,
+                    "Range": 16,
+                    "Damage": 11,
+                    "Cooldown": 3
+                },
+                {
+                    "Price": 550,
+                    "Range": 17,
+                    "Damage": 14,
+                    "Cooldown": 2.5
+                },
+                {
+                    "Price": 850,
                     "Range": 18,
-                    "Damage": 375,
-                    "Cooldown": 1
-                },
-                {
-                    "Price": 3000,
-                    "Range": 20,
-                    "Damage": 500,
-                    "Cooldown": 0.75
-                },
-                {
-                    "Price": 5000,
-                    "Range": 20,
-                    "Damage": 750,
-                    "Cooldown": 0.75
+                    "Damage": 18,
+                    "Cooldown": 2
                 }
             ]
         },
-    "Withered Freddy": {
+    "Volcanic Golem": {
         "Type": "Continuous",
-        "Image": "rbxassetid://16632239120",
-        "Rarity": "Mythic",
+        "Image": "rbxassetid://17132521951",
+        "Rarity": "Epic",
         "PlacePrice": 5000,
         "Max": 3,
         "hitboxOffset": {
@@ -271,7 +233,7 @@
     },
     "Withered Bonnie": {
         "Type": "Single",
-        "Image": "rbxassetid://16632217188",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Secret",
         "PlacePrice": 20000,
         "Max": 3,
@@ -310,7 +272,7 @@
     },
     "Shadow Bonnie": {
         "Type": "AOE",
-        "Image": "rbxassetid://16781197179",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
         "Max": 2,
@@ -348,7 +310,7 @@
     },
  "Toy Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://16781095520",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Rare",
         "PlacePrice": 800,
         "Max": 3,
@@ -387,7 +349,7 @@
     },
     "Toy Bonnie": {
         "Type": "Dual",
-        "Image": "rbxassetid://16780983603",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Epic",
         "PlacePrice": 1000,
         "Max": 3,
@@ -425,7 +387,7 @@
     },
     "Toy Chica": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16781017510",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Epic",
         "PlacePrice": 1250,
         "Max": 2,
@@ -464,7 +426,7 @@
     },
     "Mangle": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16781119726",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Secret",
         "PlacePrice": 12500,
         "Max": 2,
@@ -503,7 +465,7 @@
     },
     "Shadow Freddy": {
         "Type": "AOE",
-        "Image": "rbxassetid://17270065249",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Max": 2,
@@ -541,7 +503,7 @@
     },
   "Balloon Boy": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16781077553",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Mythic",
         "PlacePrice": 5000,
         "Max": 3,
@@ -580,7 +542,7 @@
     },
     "Golden Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://17629034232",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Mythic",
         "PlacePrice": 4000,
         "Max": 2,
@@ -619,7 +581,7 @@
     },
     "Puppet": {
         "Type": "Pierce",
-        "Image": "rbxassetid://17802016570",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Secret",
         "PlacePrice": 10000,
         "Max": 2,
@@ -658,7 +620,7 @@
     },
     "Withered Golden Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://16781122207",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Secret",
         "PlacePrice": 3000,
         "Max": 4,
@@ -696,7 +658,7 @@
     },
     "Endo": {
         "Type": "Support",
-        "Image": "rbxassetid://17851638702",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
