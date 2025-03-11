@@ -231,7 +231,7 @@
             }
         ]
     },
-    "Withered Bonnie": {
+    "Empress Magus": {
         "Type": "Single",
         "Image": "rbxassetid://17132521951",
         "Rarity": "Secret",
@@ -270,10 +270,10 @@
             }
         ]
     },
-    "Shadow Bonnie": {
+    "Wind Spirit": {
         "Type": "AOE",
         "Image": "rbxassetid://17132521951",
-        "Rarity": "Nightmare",
+        "Rarity": "Epic",
         "PlacePrice": 25000,
         "Max": 2,
         "hitboxOffset": {
@@ -308,10 +308,10 @@
             }
         ]
     },
- "Toy Freddy": {
+ "Nature Mage": {
         "Type": "Single",
         "Image": "rbxassetid://17132521951",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 800,
         "Max": 3,
         "hitboxOffset": {
@@ -347,10 +347,10 @@
             }
         ]
     },
-    "Toy Bonnie": {
+    "Thief": {
         "Type": "Dual",
         "Image": "rbxassetid://17132521951",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 1000,
         "Max": 3,
         "hitboxOffset": {
@@ -385,10 +385,10 @@
             }
         ]
     },
-    "Toy Chica": {
+    "Fire Mage": {
         "Type": "Explosion",
         "Image": "rbxassetid://17132521951",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 1250,
         "Max": 2,
         "hitboxOffset": {
@@ -424,7 +424,7 @@
             }
         ]
     },
-    "Mangle": {
+    "Warlock": {
         "Type": "Explosion",
         "Image": "rbxassetid://17132521951",
         "Rarity": "Secret",
@@ -463,7 +463,7 @@
             }
         ]
     },
-    "Shadow Freddy": {
+    "Chaos Knight": {
         "Type": "AOE",
         "Image": "rbxassetid://17132521951",
         "Rarity": "Secret",
@@ -501,7 +501,7 @@
             }
         ]
     },
-  "Balloon Boy": {
+  "Water Mage": {
         "Type": "Explosion",
         "Image": "rbxassetid://17132521951",
         "Rarity": "Mythic",
@@ -540,10 +540,10 @@
             }
         ]
     },
-    "Golden Freddy": {
+    "Brawler": {
         "Type": "Single",
         "Image": "rbxassetid://17132521951",
-        "Rarity": "Mythic",
+        "Rarity": "Epic",
         "PlacePrice": 4000,
         "Max": 2,
         "Offset": 0,
@@ -579,7 +579,7 @@
             }
         ]
     },
-    "Puppet": {
+    "Strongest Warrior": {
         "Type": "Pierce",
         "Image": "rbxassetid://17132521951",
         "Rarity": "Secret",
@@ -618,45 +618,7 @@
             }
         ]
     },
-    "Withered Golden Freddy": {
-        "Type": "Single",
-        "Image": "rbxassetid://17132521951",
-        "Rarity": "Secret",
-        "PlacePrice": 3000,
-        "Max": 4,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 300,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 4000,
-                "Range": 18,
-                "Damage": 420,
-                "Cooldown": 1.25
-            },
-            {
-                "Price": 6000,
-                "Range": 20,
-                "Damage": 550,
-                "Cooldown": 1.25
-            },
-            {
-                "Price": 9000,
-                "Range": 20,
-                "Damage": 750,
-                "Cooldown": 1
-            }
-        ]
-    },
-    "Endo": {
+    "White Mage": {
         "Type": "Support",
         "Image": "rbxassetid://17132521951",
         "Rarity": "Secret",
