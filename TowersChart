@@ -1,7 +1,7 @@
 {
     "RookieSwordsman": {
         "Type": "Single",
-        "Image": "rbxassetid://17132521986",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Uncommon",
         "PlacePrice": 200,
         "Max": 4,
@@ -40,7 +40,7 @@
     },
     "RookieMage": {
         "Type": "Explosion",
-        "Image": "rbxassetid://17132521986",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Uncommon",
         "PlacePrice": 500,
         "Max": 3,
