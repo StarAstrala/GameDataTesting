@@ -1,8 +1,8 @@
 {
     "RookieSwordsman": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
-        "Rarity": "Uncommon",
+        "Image": "rbxassetid://10708917081",
+        "Rarity": "Rare",
         "PlacePrice": 300,
         "Max": 8,
         "Offset": 0.3,
@@ -40,8 +40,199 @@
     },
     "RookieMage": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16620303027",
-        "Rarity": "Uncommon",
+        "Image": "rbxassetid://10708917081",
+        "Rarity": "Rare",
+        "PlacePrice": 500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 12,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1.5
+                "Cooldown": 0.75
+            }
+        ]
+    },
+    "EpicTest": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://10708917081",
+        "Rarity": "Epic",
+        "PlacePrice": 500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 12,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "LegendaryTest": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://10708917081",
+        "Rarity": "Legendary",
+        "PlacePrice": 500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 12,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "MythicTest": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://10708917081",
+        "Rarity": "Mythic",
+        "PlacePrice": 500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 12,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "SecretTest": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://10708917081",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 12,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "DivineTest": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://10708917081",
+        "Rarity": "Divine",
         "PlacePrice": 500,
         "Max": 3,
         "hitboxOffset": {
