@@ -165,7 +165,7 @@
 			"Y": 0,
 			"Z": 0
 		},
-		"Offset": 0.7,
+		"Offset": 0,
 		"Upgrades": [
 		{
 			"Price": 0,
@@ -204,6 +204,7 @@
 			"Y": 0,
 			"Z": 0
 		},
+		"Offset": 0,
 		"Upgrades": [
 		{
 			"Price": 0,
@@ -242,7 +243,7 @@
 			"Y": 0,
 			"Z": 0
 		},
-		"Offset": 0.25,
+		"Offset": 0,
 		"Upgrades": [
 		{
 			"Price": 0,
@@ -281,6 +282,7 @@
 			"Y": 0,
 			"Z": 0
 		},
+		"Offset": 0,
 		"Upgrades": [
 		{
 			"Price": 0,
@@ -358,6 +360,7 @@
 			"Y": 0,
 			"Z": 0
 		},
+		"Offset": 0,
 		"Upgrades": [
 		{
 			"Price": 0,
@@ -396,7 +399,7 @@
 			"Y": 0,
 			"Z": 0
 		},
-		"Offset": -0.7,
+		"Offset": 0,
 		"Upgrades": [
 		{
 			"Price": 0,
@@ -474,6 +477,7 @@
 			"Y": 0,
 			"Z": 0
 		},
+		"Offset": 0,
 		"Upgrades": [
 		{
 			"Price": 0,
@@ -513,6 +517,7 @@
 			"Y": 0,
 			"Z": 0
 		},
+		"Offset": 0,
 		"Upgrades": [
 		{
 			"Price": 0,
@@ -590,7 +595,7 @@
 			"Y": 0,
 			"Z": 0
 		},
-		"Offset": -1.9,
+		"Offset": 0,
 		"Upgrades": [
 		{
 			"Price": 0,
@@ -630,6 +635,7 @@
 			"Y": 0,
 			"Z": 0
 		},
+		"Offset": 0,
 		"Upgrades": [
 		{
 			"Price": 0,
