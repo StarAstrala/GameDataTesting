@@ -2,7 +2,7 @@
     "Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
-        "Rarity": "Uncommon",
+        "Rarity": "Rare",
         "PlacePrice": 300,
         "Max": 8,
         "Offset": 0.3,
@@ -41,7 +41,7 @@
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
-        "Rarity": "Uncommon",
+        "Rarity": "Rare",
         "PlacePrice": 500,
         "Max": 3,
         "hitboxOffset": {
@@ -79,7 +79,7 @@
     "Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://16620218689",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 600,
         "Offset": 0.65,
         "Max": 5,
@@ -157,7 +157,7 @@
         "Withered Chica": {
             "Type": "Single",
             "Image": "rbxassetid://16632209265",
-            "Rarity": "Rare",
+            "Rarity": "Epic",
             "PlacePrice": 800,
             "Max": 2,
             "hitboxOffset": {
@@ -195,7 +195,7 @@
         "Withered Foxy": {
             "Type": "Dual",
             "Image": "rbxassetid://16632135968",
-            "Rarity": "Epic",
+            "Rarity": "Legendary",
             "PlacePrice": 1200,
             "Max": 3,
             "hitboxOffset": {
@@ -349,7 +349,7 @@
  "Toy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16781095520",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 800,
         "Max": 3,
         "hitboxOffset": {
@@ -388,7 +388,7 @@
     "Toy Bonnie": {
         "Type": "Dual",
         "Image": "rbxassetid://16780983603",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 1000,
         "Max": 3,
         "hitboxOffset": {
@@ -426,7 +426,7 @@
     "Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781017510",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 1250,
         "Max": 2,
         "hitboxOffset": {
@@ -973,7 +973,7 @@
     "Baker Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://18161347460",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 800,
         "Max": 3,
         "hitboxOffset": {
@@ -1011,7 +1011,7 @@
     "Summer Toy Bonnie": {
         "Type": "Slow",
         "Image": "rbxassetid://18255590026",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 800,
         "Max": 3,
         "Passive": {"Name": "Slow", "Description": "Slows enemies"},
@@ -1251,7 +1251,7 @@
     "Hawaii Endo 02": {
         "Type": "Support",
         "Image": "rbxassetid://18255863130",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
         "Max": 2,
@@ -1410,7 +1410,7 @@
     "Endo 03": {
         "Type": "Single",
         "Image": "rbxassetid://18363471703",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 2000,
         "Max": 3,
         "hitboxOffset": {
@@ -1448,7 +1448,7 @@
     "Phantom Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://18356274992",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 900,
         "Max": 4,
         "hitboxOffset": {
@@ -1638,7 +1638,7 @@
     "FazCade": {
         "Type": "Farm",
         "Image": "rbxassetid://18363529003",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 1000,
         "Max": 3,
         "hitboxOffset": {
@@ -1757,7 +1757,7 @@
     "Amalgam": {
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18363541545",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 2000,
         "Max": 2,
         "Passive": {"Name": "Slow", "Description": "Slows enemies by 50%"},
@@ -1997,7 +1997,7 @@
    "Sniper Cupcake": {
         "Type": "Single",
         "Image": "rbxassetid://18364281117",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 800,
         "Max": 3,
         "hitboxOffset": {
@@ -2150,7 +2150,7 @@
     "Major Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18665224476",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 1000,
         "Max": 4,
         "hitboxOffset": {
@@ -2500,7 +2500,7 @@
     "Artillery Puppet": {
         "Type": "Explosion",
         "Image": "rbxassetid://18672617524",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 1500,
         "Max": 3,
         "hitboxOffset": {
@@ -2714,7 +2714,7 @@
 "Glitched CupCake": {
         "Type": "AOE",
         "Image": "rbxassetid://18888327109",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
@@ -2882,7 +2882,7 @@
    "Nightmare Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://18975771590",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 4000,
         "Offset": 0.25,
         "Max": 3,
@@ -2925,7 +2925,7 @@
     "Nightmare Freddy": {
         "Type": "Melee",
         "Image": "rbxassetid://18975866920",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 750,
         "Offset": 0.25,
         "Max": 3,
@@ -3050,7 +3050,7 @@
     "Nightmare Cupcake": {
         "Type": "Single Slow",
         "Image": "rbxassetid://18978229455",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
@@ -3607,7 +3607,7 @@
     "Buccaneer Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://116374108172820",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 400,
         "Offset": 0.7,
         "Max": 6,
@@ -3654,7 +3654,7 @@
     "Party Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://103160362573950",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 500,
         "Offset": 0.7,
         "Max": 3,
@@ -4088,7 +4088,7 @@
     "Cowboy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://75145495587772",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 700,
         "Offset": 0,
         "Max": 3,
@@ -4166,7 +4166,7 @@
     "Maestro Puppet": {
         "Type": "Support",
         "Image": "rbxassetid://124446963849830",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -4289,7 +4289,7 @@
     "Hooligan Toy Bonnie": {
         "Type": "Splash",
         "Image": "rbxassetid://99820154884996",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
@@ -4939,7 +4939,7 @@
 "Funtime Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://130210196007742",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 450,
         "Offset": 0.3,
         "Max": 3,
@@ -4978,7 +4978,7 @@
 "Funtime Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://113691386593768",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 7500,
         "Offset": 0,
         "Max": 3,
@@ -5189,7 +5189,7 @@
 "Bonnet": {
         "Type": "Splash",
         "Image": "rbxassetid://110847799109792",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 300,
         "Offset": -1.2,
         "Max": 3,
@@ -6086,7 +6086,7 @@
 "Jack O Chica": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://127828338385715",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 3000,
         "Offset": 0,
         "Max": 3,
@@ -6137,7 +6137,7 @@
 "Pumpkin Balloon Boy": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://114209077497389",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 5000,
         "Offset": 0,
         "Max": 3,
@@ -6277,7 +6277,7 @@
     "Elite Sniper Cupcake": {
         "Type": "Single",
         "Image": "rbxassetid://98140234704161",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 750,
         "Offset": 5,
         "Max": 3,
@@ -6316,7 +6316,7 @@
     "Enraged Toy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://80554534210979",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -6394,7 +6394,7 @@
  "Cutlass Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://99151054438999",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -6433,7 +6433,7 @@
 "Cool Toy Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://102583887192750",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 750,
         "Offset": 0,
         "Max": 3,
@@ -6472,7 +6472,7 @@
 "Demolition Toy Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://117417835066117",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 1250,
         "Offset": 0,
         "Max": 3,
@@ -6511,7 +6511,7 @@
 "Reinforced Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://120373540270181",
-        "Rarity": "Uncommon",
+        "Rarity": "Rare",
         "PlacePrice": 300,
         "Offset": 0,
         "Max": 8,
@@ -6550,7 +6550,7 @@
 "Baker Chica": {
         "Type": "Single",
         "Image": "rbxassetid://107530099452850",
-        "Rarity": "Uncommon",
+        "Rarity": "Rare",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
@@ -6589,7 +6589,7 @@
 "Dino Withered Chica": {
         "Type": "Single",
         "Image": "rbxassetid://131013206661426",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
@@ -6898,7 +6898,7 @@
     "Augmented Endo": {
         "Type": "Single",
         "Image": "rbxassetid://135702265461354",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 600,
         "Max": 4,
         "hitboxOffset": {
@@ -7023,7 +7023,7 @@
     "Rockstar Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://115841320633400",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -7062,7 +7062,7 @@
     "Rockstar Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://136650589101234",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 3000,
         "Offset": 0,
         "Max": 3,
@@ -7481,7 +7481,7 @@
     "Number 1 Crate": {
         "Type": "AOE",
         "Image": "rbxassetid://75811990729586",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 500,
         "Offset": -2.25,
         "Max": 3,
@@ -7781,7 +7781,7 @@
     "Mechanical Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://116234603453447",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 2750,
         "Offset": -2,
         "Max": 3,
@@ -7822,7 +7822,7 @@
     "Brawler Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://105737871914622",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -8585,7 +8585,7 @@
     "Present Boy": {
         "Type": "Splash",
         "Image": "rbxassetid://107970281144022",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 750,
         "Offset": 0,
         "Max": 3,
@@ -9047,7 +9047,7 @@
     "Glamrock Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://136791971118007",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 500,
         "Offset": 0.5,
         "Max": 3,
@@ -9086,7 +9086,7 @@
     "Glamrock Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://113567040447471",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 2500,
         "Offset": 0.5,
         "Max": 3,
@@ -9748,7 +9748,7 @@
     "Archer Fredeus": {
         "Type": "Single",
         "Image": "rbxassetid://113101409953014",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 300,
         "Offset": 0,
         "Max": 5,
@@ -10658,7 +10658,7 @@
     "Nightmare Bot": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://122930850408296",
-        "Rarity": "Epic",
+        "Rarity": "Legendary",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
