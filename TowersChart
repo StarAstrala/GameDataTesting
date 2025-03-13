@@ -1,7 +1,7 @@
 {
     "RookieSwordsman": {
         "Type": "Single",
-        "Image": "rbxassetid://10708917081",
+        "Image": "rbxassetid://17132521951",
         "Rarity": "Rare",
         "PlacePrice": 200,
         "Max": 4,
@@ -154,45 +154,45 @@
             }
         ]
     },
-        "Weak Imp": {
-            "Type": "Dual",
-            "Image": "rbxassetid://17132521951",
-            "Rarity": "Rare",
-            "PlacePrice": 450,
-            "Max": 6,
-            "hitboxOffset": {
-                "X": 0,
-                "Y": 0,
-                "Z": 0
-            },
-            "Offset": 0.7,
-            "Upgrades": [
-                {
-                    "Price": 0,
-                    "Range": 15,
-                    "Damage": 8,
-                    "Cooldown": 3
-                },
-                {
-                    "Price": 350,
-                    "Range": 16,
-                    "Damage": 11,
-                    "Cooldown": 3
-                },
-                {
-                    "Price": 550,
-                    "Range": 17,
-                    "Damage": 14,
-                    "Cooldown": 2.5
-                },
-                {
-                    "Price": 850,
-                    "Range": 18,
-                    "Damage": 18,
-                    "Cooldown": 2
-                }
-            ]
+    "Weak Imp": {  // Added missing quotes here and a comma
+        "Type": "Dual",
+        "Image": "rbxassetid://17132521951",
+        "Rarity": "Rare",
+        "PlacePrice": 450,
+        "Max": 6,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
         },
+        "Offset": 0.7,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 8,
+                "Cooldown": 3
+            },
+            {
+                "Price": 350,
+                "Range": 16,
+                "Damage": 11,
+                "Cooldown": 3
+            },
+            {
+                "Price": 550,
+                "Range": 17,
+                "Damage": 14,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 850,
+                "Range": 18,
+                "Damage": 18,
+                "Cooldown": 2
+            }
+        ]
+    },
     "Volcanic Golem": {
         "Type": "Continuous",
         "Image": "rbxassetid://17132521951",
@@ -308,7 +308,7 @@
             }
         ]
     },
- "Nature Mage": {
+    "Nature Mage": {
         "Type": "Single",
         "Image": "rbxassetid://17132521951",
         "Rarity": "Epic",
@@ -348,11 +348,11 @@
         ]
     },
     "Thief": {
-        "Type": "Dual",
+        "Type": "Melee",
         "Image": "rbxassetid://17132521951",
-        "Rarity": "Legendary",
-        "PlacePrice": 1000,
-        "Max": 3,
+        "Rarity": "Rare",
+        "PlacePrice": 400,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -361,303 +361,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 12,
-                "Damage": 80,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1600,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 1
-            },
-            {
-                "Price": 2000,
-                "Range": 18,
-                "Damage": 120,
-                "Cooldown": 1
-            },
-            {
-                "Price": 3000,
-                "Range": 20,
-                "Damage": 150,
-                "Cooldown": 0.75
-            }
-        ]
-    },
-    "Fire Mage": {
-        "Type": "Explosion",
-        "Image": "rbxassetid://17132521951",
-        "Rarity": "Legendary",
-        "PlacePrice": 1250,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -0.7,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 12,
-                "Damage": 200,
-                "Cooldown": 3
-            },
-            {
-                "Price": 2500,
-                "Range": 15,
-                "Damage": 250,
-                "Cooldown": 3
-            },
-            {
-                "Price": 4000,
-                "Range": 15,
-                "Damage": 300,
+                "Range": 5,
+                "Damage": 7,
                 "Cooldown": 2
             },
             {
-                "Price": 6000,
-                "Range": 17,
-                "Damage": 300,
+                "Price": 300,
+                "Range": 6,
+                "Damage": 9,
+                "Cooldown": 2
+            },
+            {
+                "Price": 500,
+                "Range": 7,
+                "Damage": 12,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1000,
+                "Range": 8,
+                "Damage": 15,
                 "Cooldown": 1.5
-            }
-        ]
-    },
-    "Warlock": {
-        "Type": "Explosion",
-        "Image": "rbxassetid://17132521951",
-        "Rarity": "Secret",
-        "PlacePrice": 12500,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -0.2,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 200,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 20000,
-                "Range": 17,
-                "Damage": 300,
-                "Cooldown": 1.25
-            },
-            {
-                "Price": 25000,
-                "Range": 20,
-                "Damage": 400,
-                "Cooldown": 1
-            },
-            {
-                "Price": 30000,
-                "Range": 22,
-                "Damage": 500,
-                "Cooldown": 0.75
-            }
-        ]
-    },
-    "Chaos Knight": {
-        "Type": "AOE",
-        "Image": "rbxassetid://17132521951",
-        "Rarity": "Secret",
-        "PlacePrice": 15000,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 12,
-                "Damage": 20,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 25000,
-                "Range": 14,
-                "Damage": 24,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 30000,
-                "Range": 16,
-                "Damage": 30,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 50000,
-                "Range": 18,
-                "Damage": 36,
-                "Cooldown": 0.05
-            }
-        ]
-    },
-  "Water Mage": {
-        "Type": "Explosion",
-        "Image": "rbxassetid://17132521951",
-        "Rarity": "Mythic",
-        "PlacePrice": 5000,
-        "Max": 3,
-        "AnimationOffset": -5,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 12,
-                "Damage": 400,
-                "Cooldown": 4
-            },
-            {
-                "Price": 10000,
-                "Range": 15,
-                "Damage": 500,
-                "Cooldown": 3.5
-            },
-            {
-                "Price": 15000,
-                "Range": 18,
-                "Damage": 600,
-                "Cooldown": 3
-            },
-            {
-                "Price": 25000,
-                "Range": 25,
-                "Damage": 700,
-                "Cooldown": 3
-            }
-        ]
-    },
-    "Brawler": {
-        "Type": "Single",
-        "Image": "rbxassetid://17132521951",
-        "Rarity": "Epic",
-        "PlacePrice": 4000,
-        "Max": 2,
-        "Offset": 0,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 250,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 7000,
-                "Range": 18,
-                "Damage": 300,
-                "Cooldown": 1.25
-            },
-            {
-                "Price": 10000,
-                "Range": 20,
-                "Damage": 400,
-                "Cooldown": 1
-            },
-            {
-                "Price": 15000,
-                "Range": 20,
-                "Damage": 500,
-                "Cooldown": 1
-            }
-        ]
-    },
-    "Strongest Warrior": {
-        "Type": "Pierce",
-        "Image": "rbxassetid://17132521951",
-        "Rarity": "Secret",
-        "PlacePrice": 10000,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -1.9,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 7
-            },
-            {
-                "Price": 15000,
-                "Range": 35,
-                "Damage": 1200,
-                "Cooldown": 6
-            },
-            {
-                "Price": 20000,
-                "Range": 40,
-                "Damage": 1400,
-                "Cooldown": 5.5
-            },
-            {
-                "Price": 25000,
-                "Range": 45,
-                "Damage": 1600,
-                "Cooldown": 5
-            }
-        ]
-    },
-    "White Mage": {
-        "Type": "Support",
-        "Image": "rbxassetid://17132521951",
-        "Rarity": "Secret",
-        "PlacePrice": 1000,
-        "NoEnemyAttack": true,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.06
-            },
-            {
-                "Price": 1700,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.12
-            },
-            {
-                "Price": 2200,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.18
-            },
-            {
-                "Price": 2500,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.24
             }
         ]
     }
